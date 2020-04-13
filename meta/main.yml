@@ -1,10 +1,6 @@
 galaxy_info:
     author: equail@redhat.com
     description: Validates JSON data files against JSON schema
-  
     license: license (MIT)
-  
     min_ansible_version: 2.4
-  
     galaxy_tags: []
-  
